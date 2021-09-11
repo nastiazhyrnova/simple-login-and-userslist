@@ -6,10 +6,6 @@ Versión de Node: 12.16.1 o superior
 Versión de NPM: 6.13.4 o superiror
 Compatibilidad: ES6 Navegadores evergreen (Chrome, Firefox, Edge, Safari)
 
-## Instrucciones
-
-- [Instrucciones](src/docs/laliga-prueba-tecnica-instrucciones.md)
-
 ## Entorno de desarrollo local
 
 ### `npm install`
