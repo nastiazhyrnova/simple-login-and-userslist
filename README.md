@@ -1,4 +1,4 @@
-# Prueba técnica React de LaLiga
+# Simple login and userslist
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
