@@ -37,14 +37,14 @@ const Login = () => {
 				<Input
 					type='email'
 					title='Correo electrónico'
-					placeholder='Correo electrónico'
+					placeholder='Demo: eve.holt@reqres.in'
 					required
 					ref={emailRef}
 				/>
 				<Input
 					type='password'
 					title='Contraseña'
-					placeholder='Contraseña'
+					placeholder='Demo: cityslicka'
 					required
 					ref={passwordRef}
 				/>

@@ -20,7 +20,7 @@ Entorno de desarrollo
 
 El proyecto está realizado con las siguientes tecnologias: React, React Router, JavaScript, Styled Components, Redux, Redux-Thunk.
 
-**DEMO**: https://prueba-laliga-js.web.app/
+**DEMO**: https://simple-login-and-userlist.web.app/
 
 REST API conectada: https://reqres.in/
 
